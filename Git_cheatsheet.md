@@ -1,19 +1,28 @@
 ## Git Cheatsheet
-###Text based way of talking with my computer!
+
+###GIT
+- Version Control Software
+
+###GITHUB
+- Social network... that uses git...
+
+---
+
 ```bash
 
-cd    # Change the current working directory  (cd byitself... takes to home directory)
-      ##   ..  refers to parent directory
-      ##    . refers to THIS directory
-      ##    ~ refers to home
-pwd   # Print working directory
-mkdir  # Creates new directory
-touch  # Makes a file
-ls  # List... show files/directories inside the working directory
-mv  # Move  (or rename)
-    #  Same as cd: we can use .. and . to reference directories
-rm  # Remove     -r flag for recurrsive... needed for removing directories
-cp  # Copy
+git status  # "What's going on with git right now?"
+git add . # Stages all changes
+git add fileIChanges.js # Stage specific changes
+git commit -m "Feature I accomplished"# Save a version of files
+git log # See the past... of this repository
+git push [*remote*] [*branch*] # Send this repository with another computer
+git push origin master # Send this repository with another computer
+        # origin is a NAME for a remote location
+        # master is a BRANCH of the repository
+git pull [*remote*] [*branch*] # Retrieve a repository from another computer
+git pull upstream master # Retrieve a repository from another computer
+        # upstream is a NAME for a remote location
+        # master is a BRANCH of the repository  
 
 ```
 
