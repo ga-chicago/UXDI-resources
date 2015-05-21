@@ -16,3 +16,10 @@ rm  # Remove     -r flag for recurrsive... needed for removing directories
 cp  # Copy
 
 ```
+
+## Your Everyday Git Workflow!
+Follow in this order every time you want to make a change and push it live!
+- `git add .`
+- `git commit -m "my witty message here"`
+- `git pull origin master`
+- `git push origin master`
