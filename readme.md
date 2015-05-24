@@ -4,6 +4,7 @@ A list of resources for UXDI students
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
+- [The Gap](https://vimeo.com/85040589)
 
 ##Books
 - [Just Enough Research](http://abookapart.com/products/just-enough-research)
