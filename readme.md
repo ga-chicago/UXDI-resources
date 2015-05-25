@@ -1,4 +1,4 @@
-# UXDI-resources
+# UXDI-Resources
 A list of resources for UXDI students
 
 ##Videos
