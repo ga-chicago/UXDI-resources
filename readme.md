@@ -18,20 +18,30 @@ A list of resources for UXDI students
 - [A Day in the Life of a Google UX Design Intern](https://medium.com/so-good/a-day-in-the-life-of-a-google-ux-design-intern-4042dad32a07)
 - [Dear Design Student: Advice on design from people who work for a living.](https://deardesignstudent.com/)
 
+
 ##Tools
-- [POP](https://popapp.in/)
+###Research
+- [User Testing](http://www.usertesting.com/)
+
+###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
+
+###Prototyping
+- [POP](https://popapp.in/)
 - [Invision](http://www.invisionapp.com/)
 - [UXPin](https://www.uxpin.com/)
-- [Sketch](http://bohemiancoding.com/sketch/)
-- [User Testing](http://www.usertesting.com/)
 - [Flinto](https://www.flinto.com/)
-- [GitHub](http://github.com/)
+
+###Animation/Interaction
 - [Hype](http://tumult.com/hype/)
 - [Origami](https://facebook.github.io/origami/)
+
+###Visual Design
+- [Sketch](http://bohemiancoding.com/sketch/)
+- [Adobe CC](http://www.adobe.com/creativecloud.html)
+
+###Front-End
+- [GitHub](http://github.com/)
 - [Bootstrap](http://getbootstrap.com/)
 - [Ratchet](http://goratchet.com/)
-- [Adobe CC](http://www.adobe.com/creativecloud.html)
 - [Google Fonts](https://www.google.com/fonts)
-
-
