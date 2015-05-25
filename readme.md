@@ -5,6 +5,7 @@ A list of resources for UXDI students
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
 - [The Gap](https://vimeo.com/85040589)
+- [Productivity Future Vision (2011)](https://www.youtube.com/watch?v=a6cNdhOKwi0)
 
 ##Books
 - [Just Enough Research](http://abookapart.com/products/just-enough-research)
@@ -28,6 +29,8 @@ A list of resources for UXDI students
 - [User Testing](http://www.usertesting.com/)
 - [SurveyMonkey](https://www.surveymonkey.com/)
 - [Peek](http://peek.usertesting.com/)
+- [Validately](https://validately.com/)
+- [Visual Website Optimizer (A/B testing)](https://vwo.com/)
 
 ###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
