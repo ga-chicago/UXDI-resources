@@ -27,6 +27,7 @@ A list of resources for UXDI students
 ###Research
 - [User Testing](http://www.usertesting.com/)
 - [SurveyMonkey](https://www.surveymonkey.com/)
+- [Peek](http://peek.usertesting.com/)
 
 ###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
