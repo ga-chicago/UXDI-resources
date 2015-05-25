@@ -73,3 +73,4 @@ A list of resources for UXDI students
 - [Mariusz Ciesla](http://mariusz.cc/)
 - [LaiYee Lori](https://www.behance.net/laiyeelori)
 - [Jordan Price](http://jordanprice.co/)
+- [Chris Mlynarski](http://www.chrismlynarski.com/)
