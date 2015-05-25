@@ -12,12 +12,15 @@ A list of resources for UXDI students
 - [Designing for Emotion](http://abookapart.com/products/designing-for-emotion)
 
 ##Articles
+- [The Secret Handshake®](https://learnthesecrethandshake.com/)
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
 - [10 Questions You’ll Be Asked in a UX Interview](https://medium.com/salesforce-ux/10-questions-youll-be-asked-in-a-ux-interview-f93f0c78f31d)
 - [The hardest thing in UX design…](https://medium.com/designing-atlassian/the-hardest-thing-in-ux-design-f8b2f41e2d2f)
 - [A Day in the Life of a Google UX Design Intern](https://medium.com/so-good/a-day-in-the-life-of-a-google-ux-design-intern-4042dad32a07)
 - [Dear Design Student: Advice on design from people who work for a living.](https://deardesignstudent.com/)
-- [The full-stack employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
+- [GV Library: Design](https://www.gv.com/library/design)
+- [The Full-Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
+- [Q&A with Carolyn Tweedy, A General Assembly UX Student](http://washingtontechnology.org/qa-with-carolyn-tweedy-a-general-assembly-ux-student/?utm_source=hs_email&utm_medium=email&utm_content=17778511&_hsenc=p2ANqtz---mg4Kb8hzobFbjF5HIrK1N5vSe7T1RK6ISbhuj5q1_UaW37-UvKeq7NrsZzbJX3H338UJpq3hdLWXlOWZ1KY4Y1rtAwywMedt_fSh2WMSVKVzveQ&_hsmi=17778513)
 
 
 ##Tools
@@ -53,3 +56,19 @@ A list of resources for UXDI students
 - [IxDA Chicago](http://www.ixdachicago.org/)
 - [AIGA Chicago](http://chicago.aiga.org/)
 - [UX Book Club Chicago](http://www.meetup.com/UXChicago/)
+
+##Case Studies / UX Design Portfolios
+###Case Studies
+- [ComEd x Agentis](http://akta.com/case-study/agentis-energy-comed/)
+- [Sphero](http://www.sliceoflime.com/projects/sphero/)
+
+###Portfolios
+- [Erica Firment](http://ericafirment.com/)
+- [Cody James Sielawa](http://www.helloimcody.com/)
+- [Edmund Yu](http://www.edmundyu.com/)
+- [Marc Thomas](http://mrcthms.com/)
+- [Justin Edmund](http://www.jedmund.com/)
+- [Simon Pan](http://simonpan.com/)
+- [Mariusz Ciesla](http://mariusz.cc/)
+- [LaiYee Lori](https://www.behance.net/laiyeelori)
+- [Jordan Price](http://jordanprice.co/)
