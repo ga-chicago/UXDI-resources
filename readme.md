@@ -51,6 +51,11 @@ A list of resources for UXDI students
 - [Ratchet](http://goratchet.com/)
 - [Google Fonts](https://www.google.com/fonts)
 
+###File Storage
+- [Dropbox](https://db.tt/MxDI0Fc)
+- [Google Drive](https://www.google.com/drive/?authuser=0)
+- [OneDrive](https://onedrive.live.com/about/en-us/)
+
 
 ##Organizations
 - [99u Local: Chicago](http://www.meetup.com/99U-Local-Chicago/?a=wr1_2)
