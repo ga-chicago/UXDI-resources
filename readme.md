@@ -17,6 +17,7 @@ A list of resources for UXDI students
 - [The hardest thing in UX design…](https://medium.com/designing-atlassian/the-hardest-thing-in-ux-design-f8b2f41e2d2f)
 - [A Day in the Life of a Google UX Design Intern](https://medium.com/so-good/a-day-in-the-life-of-a-google-ux-design-intern-4042dad32a07)
 - [Dear Design Student: Advice on design from people who work for a living.](https://deardesignstudent.com/)
+- [The full-stack employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
 
 
 ##Tools
@@ -45,3 +46,10 @@ A list of resources for UXDI students
 - [Bootstrap](http://getbootstrap.com/)
 - [Ratchet](http://goratchet.com/)
 - [Google Fonts](https://www.google.com/fonts)
+
+
+##Organizations
+- [99u Local: Chicago](http://www.meetup.com/99U-Local-Chicago/?a=wr1_2)
+- [IxDA Chicago](http://www.ixdachicago.org/)
+- [AIGA Chicago](http://chicago.aiga.org/)
+- [UX Book Club Chicago](http://www.meetup.com/UXChicago/)
