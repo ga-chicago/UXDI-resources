@@ -1,6 +1,9 @@
 # UXDI-Resources
 A list of resources for UXDI students
 
+##GA Student Project Gallery
+- [GA Gallery](http://gallery.ga.co/)
+
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
