@@ -25,8 +25,8 @@ A list of resources for UXDI students
 -[A Stakeholder Interview Checklist, Kim Goodwin, boxesandarrows.com](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
 
 ###Resources
--[Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
-[Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
+- [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
+- [Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
 
 
 ##Tools
