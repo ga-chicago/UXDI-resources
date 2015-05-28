@@ -31,6 +31,7 @@ A list of resources for UXDI students
 - [Peek](http://peek.usertesting.com/)
 - [Validately](https://validately.com/)
 - [Visual Website Optimizer (A/B testing)](https://vwo.com/)
+- [Silverback](http://silverbackapp.com/)
 
 ###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
@@ -71,6 +72,8 @@ A list of resources for UXDI students
 ###Case Studies
 - [ComEd x Agentis](http://akta.com/case-study/agentis-energy-comed/)
 - [Sphero](http://www.sliceoflime.com/projects/sphero/)
+- [True Spirit](http://www.ux.danielspagnolo.com/casestudy_truespirit.html)
+- [GoCatch](http://www.saramichelazzo.com/gocatch)
 
 ###Portfolios
 - [Erica Firment](http://ericafirment.com/)
