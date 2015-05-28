@@ -22,6 +22,10 @@ A list of resources for UXDI students
 - [GV Library: Design](https://www.gv.com/library/design)
 - [The Full-Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
 - [Q&A with Carolyn Tweedy, A General Assembly UX Student](http://washingtontechnology.org/qa-with-carolyn-tweedy-a-general-assembly-ux-student/?utm_source=hs_email&utm_medium=email&utm_content=17778511&_hsenc=p2ANqtz---mg4Kb8hzobFbjF5HIrK1N5vSe7T1RK6ISbhuj5q1_UaW37-UvKeq7NrsZzbJX3H338UJpq3hdLWXlOWZ1KY4Y1rtAwywMedt_fSh2WMSVKVzveQ&_hsmi=17778513)
+-[A Stakeholder Interview Checklist, Kim Goodwin, boxesandarrows.com](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
+###Resources
+-[Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
+[Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
 
 
 ##Tools
