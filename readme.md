@@ -1,6 +1,9 @@
 # UXDI-Resources
 A list of resources for UXDI students
 
+##GA Student Project Gallery
+- [GA Gallery](http://gallery.ga.co/)
+
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
@@ -11,6 +14,7 @@ A list of resources for UXDI students
 - [Just Enough Research](http://abookapart.com/products/just-enough-research)
 - [Design is a Job](http://abookapart.com/products/design-is-a-job)
 - [Designing for Emotion](http://abookapart.com/products/designing-for-emotion)
+- [Atomic Design](http://atomicdesign.bradfrost.com/)
 
 ##Articles
 - [The Secret Handshake®](https://learnthesecrethandshake.com/)
@@ -22,11 +26,16 @@ A list of resources for UXDI students
 - [GV Library: Design](https://www.gv.com/library/design)
 - [The Full-Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
 - [Q&A with Carolyn Tweedy, A General Assembly UX Student](http://washingtontechnology.org/qa-with-carolyn-tweedy-a-general-assembly-ux-student/?utm_source=hs_email&utm_medium=email&utm_content=17778511&_hsenc=p2ANqtz---mg4Kb8hzobFbjF5HIrK1N5vSe7T1RK6ISbhuj5q1_UaW37-UvKeq7NrsZzbJX3H338UJpq3hdLWXlOWZ1KY4Y1rtAwywMedt_fSh2WMSVKVzveQ&_hsmi=17778513)
+<<<<<<< HEAD
 -[A Stakeholder Interview Checklist, Kim Goodwin, boxesandarrows.com](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
 
 ###Resources
 - [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
 - [Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
+=======
+- [Most of government is mostly service design most of the time. Discuss.](http://blog.mattedgar.com/2015/05/12/most-of-government-is-mostly-service-design-most-of-the-time-discuss/)
+- [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+>>>>>>> upstream/master
 
 
 ##Tools
@@ -36,6 +45,7 @@ A list of resources for UXDI students
 - [Peek](http://peek.usertesting.com/)
 - [Validately](https://validately.com/)
 - [Visual Website Optimizer (A/B testing)](https://vwo.com/)
+- [Silverback](http://silverbackapp.com/)
 
 ###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
@@ -76,6 +86,8 @@ A list of resources for UXDI students
 ###Case Studies
 - [ComEd x Agentis](http://akta.com/case-study/agentis-energy-comed/)
 - [Sphero](http://www.sliceoflime.com/projects/sphero/)
+- [True Spirit](http://www.ux.danielspagnolo.com/casestudy_truespirit.html)
+- [GoCatch](http://www.saramichelazzo.com/gocatch)
 
 ###Portfolios
 - [Erica Firment](http://ericafirment.com/)
