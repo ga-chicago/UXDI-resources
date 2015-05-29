@@ -14,6 +14,7 @@ A list of resources for UXDI students
 - [Just Enough Research](http://abookapart.com/products/just-enough-research)
 - [Design is a Job](http://abookapart.com/products/design-is-a-job)
 - [Designing for Emotion](http://abookapart.com/products/designing-for-emotion)
+- [Atomic Design](http://atomicdesign.bradfrost.com/)
 
 ##Articles
 - [The Secret Handshake®](https://learnthesecrethandshake.com/)
@@ -26,6 +27,7 @@ A list of resources for UXDI students
 - [The Full-Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
 - [Q&A with Carolyn Tweedy, A General Assembly UX Student](http://washingtontechnology.org/qa-with-carolyn-tweedy-a-general-assembly-ux-student/?utm_source=hs_email&utm_medium=email&utm_content=17778511&_hsenc=p2ANqtz---mg4Kb8hzobFbjF5HIrK1N5vSe7T1RK6ISbhuj5q1_UaW37-UvKeq7NrsZzbJX3H338UJpq3hdLWXlOWZ1KY4Y1rtAwywMedt_fSh2WMSVKVzveQ&_hsmi=17778513)
 - [Most of government is mostly service design most of the time. Discuss.](http://blog.mattedgar.com/2015/05/12/most-of-government-is-mostly-service-design-most-of-the-time-discuss/)
+- [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 
 
 ##Tools
