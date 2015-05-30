@@ -57,10 +57,17 @@ A list of resources for UXDI students
 - [Adobe CC](http://www.adobe.com/creativecloud.html)
 
 ###Front-End
-- [GitHub](http://github.com/)
+####Resources
+- [Google Fonts](https://www.google.com/fonts)
+####Frameworks
 - [Bootstrap](http://getbootstrap.com/)
 - [Ratchet](http://goratchet.com/)
-- [Google Fonts](https://www.google.com/fonts)
+- [Foundation](http://foundation.zurb.com/)
+####Tools
+- [GitHub](http://github.com/)
+- [Sublime Text](http://www.sublimetext.com/)
+- [Atom](https://atom.io/)
+
 
 ###File Storage
 - [Dropbox](https://db.tt/MxDI0Fc)
