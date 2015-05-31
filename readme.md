@@ -20,13 +20,10 @@ A list of resources for UXDI students
 - [Atomic Design](http://atomicdesign.bradfrost.com/)
 
 ##Articles
-- [The Secret Handshake®](https://learnthesecrethandshake.com/)
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
 - [10 Questions You’ll Be Asked in a UX Interview](https://medium.com/salesforce-ux/10-questions-youll-be-asked-in-a-ux-interview-f93f0c78f31d)
 - [The hardest thing in UX design…](https://medium.com/designing-atlassian/the-hardest-thing-in-ux-design-f8b2f41e2d2f)
 - [A Day in the Life of a Google UX Design Intern](https://medium.com/so-good/a-day-in-the-life-of-a-google-ux-design-intern-4042dad32a07)
-- [Dear Design Student: Advice on design from people who work for a living.](https://deardesignstudent.com/)
-- [GV Library: Design](https://www.gv.com/library/design)
 - [The Full-Stack Employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
 - [Q&A with Carolyn Tweedy, A General Assembly UX Student](http://washingtontechnology.org/qa-with-carolyn-tweedy-a-general-assembly-ux-student/?utm_source=hs_email&utm_medium=email&utm_content=17778511&_hsenc=p2ANqtz---mg4Kb8hzobFbjF5HIrK1N5vSe7T1RK6ISbhuj5q1_UaW37-UvKeq7NrsZzbJX3H338UJpq3hdLWXlOWZ1KY4Y1rtAwywMedt_fSh2WMSVKVzveQ&_hsmi=17778513)
 - [A Stakeholder Interview Checklist, Kim Goodwin, boxesandarrows.com](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
@@ -40,6 +37,19 @@ A list of resources for UXDI students
 - [Paper prototyping is a waste of time](https://medium.com/@jakek/paper-prototyping-is-a-waste-of-time-353076395187)
 - [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 - [Design user research explained for everyone](http://blog.froont.com/design-user-research-explained/)
+
+##Design Blogs
+- [A List Apart](http://alistapart.com/)
+- [Smashing Magazine](http://www.smashingmagazine.com/)
+- [Dear Design Student: Advice on design from people who work for a living.](https://deardesignstudent.com/)
+- [GV Library: Design](https://www.gv.com/library/design)
+- [Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
+- [FROONT Open Desing Blog](http://blog.froont.com/)
+- [The Secret Handshake®](https://learnthesecrethandshake.com/)
+- [Google Design](http://www.google.com/design/)
+- [Wired Design](http://www.wired.com/category/design/)
+- [Fast Co. Design](http://www.fastcodesign.com/)
+- [Designer News](https://www.designernews.co/)
 
 ##Tools
 ###Research
@@ -62,14 +72,18 @@ A list of resources for UXDI students
 ###Animation/Interaction
 - [Hype](http://tumult.com/hype/)
 - [Origami](https://facebook.github.io/origami/)
+- []()
+- [Creative Uses of Animated GIFs to Present UI Designs](http://line25.com/articles/creative-uses-animated-gifs-present-ui-designs)
 
 ###Visual Design
 - [Sketch](http://bohemiancoding.com/sketch/)
 - [Adobe CC](http://www.adobe.com/creativecloud.html)
 - [Affinity](https://affinity.serif.com/en-us/)
+####Resources
+- [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
+- [Tether UI Kit](http://www.invisionapp.com/tethr)
 
 ###Front-End
-
 ####Resources
 - [Google Fonts](https://www.google.com/fonts)
 
@@ -95,13 +109,6 @@ A list of resources for UXDI students
 - [IxDA Chicago](http://www.ixdachicago.org/)
 - [AIGA Chicago](http://chicago.aiga.org/)
 - [UX Book Club Chicago](http://www.meetup.com/UXChicago/)
-
-##Resources
-- [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
-- [Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
-- [Creative Uses of Animated GIFs to Present UI Designs](http://line25.com/articles/creative-uses-animated-gifs-present-ui-designs)
-- [FROONT Open Desing Blog](http://blog.froont.com/)
-
 
 ##Case Studies / UX Design Portfolios
 ###Case Studies
