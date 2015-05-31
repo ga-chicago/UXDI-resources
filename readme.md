@@ -48,7 +48,7 @@ A list of resources for UXDI students
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Dear Design Student: Advice on design from people who work for a living.](https://deardesignstudent.com/)
 - [GV Library: Design](https://www.gv.com/library/design)
-- [Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
+- [Webdesignersdepot.com](http://www.webdesignerdepot.com/)
 - [FROONT Open Desing Blog](http://blog.froont.com/)
 - [The Secret Handshake®](https://learnthesecrethandshake.com/)
 - [Google Design](http://www.google.com/design/)
