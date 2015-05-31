@@ -18,6 +18,9 @@ A list of resources for UXDI students
 - [Design is a Job](http://abookapart.com/products/design-is-a-job)
 - [Designing for Emotion](http://abookapart.com/products/designing-for-emotion)
 - [Atomic Design](http://atomicdesign.bradfrost.com/)
+- [The Shape of Design](http://shapeofdesignbook.com/)
+- [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
+- [Design for the Real World](http://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532/)
 
 ##Articles
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
