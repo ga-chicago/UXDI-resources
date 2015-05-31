@@ -97,6 +97,7 @@ A list of resources for UXDI students
 - [Sublime Text](http://www.sublimetext.com/)
 - [Atom](https://atom.io/)
 - [Sitespeed](http://www.sitespeed.io/)
+- [CodePen](http://codepen.io/)
 
 
 ###File Storage
