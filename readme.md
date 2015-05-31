@@ -72,7 +72,6 @@ A list of resources for UXDI students
 ###Animation/Interaction
 - [Hype](http://tumult.com/hype/)
 - [Origami](https://facebook.github.io/origami/)
-- []()
 - [Creative Uses of Animated GIFs to Present UI Designs](http://line25.com/articles/creative-uses-animated-gifs-present-ui-designs)
 
 ###Visual Design
