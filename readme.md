@@ -78,6 +78,7 @@ A list of resources for UXDI students
 - [Sketch](http://bohemiancoding.com/sketch/)
 - [Adobe CC](http://www.adobe.com/creativecloud.html)
 - [Affinity](https://affinity.serif.com/en-us/)
+
 ####Resources
 - [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
 - [Tether UI Kit](http://www.invisionapp.com/tethr)
