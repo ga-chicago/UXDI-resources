@@ -42,6 +42,7 @@ A list of resources for UXDI students
 - [Design user research explained for everyone](http://blog.froont.com/design-user-research-explained/)
 - [The Ten Commandments Of Efficient Design In Axure](http://www.smashingmagazine.com/2013/10/04/ten-commandments-of-efficient-design-in-axure/)
 - [The 10 Commandments Of User Interface Design](http://editorial.designtaxi.com/editorial-images/news-info300415/1.jpg)
+- [The Dribbblisation of Design](https://medium.com/@intercom/the-dribbblisation-of-design-406422ccb026)
 
 ##Design Blogs
 - [A List Apart](http://alistapart.com/)
