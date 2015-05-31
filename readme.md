@@ -38,6 +38,8 @@ A list of resources for UXDI students
 - [The Design Process: What is the Double Diamond?](http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
 - [An MVP is not a Cheaper Product, It’s about Smart Learning](https://medium.com/@sgblank/an-mvp-is-not-a-cheaper-product-it-s-about-smart-learning-77eed770f60c)
 - [Paper prototyping is a waste of time](https://medium.com/@jakek/paper-prototyping-is-a-waste-of-time-353076395187)
+- [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+- [Design user research explained for everyone](http://blog.froont.com/design-user-research-explained/)
 
 ##Tools
 ###Research
@@ -98,6 +100,8 @@ A list of resources for UXDI students
 - [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
 - [Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
 - [Creative Uses of Animated GIFs to Present UI Designs](http://line25.com/articles/creative-uses-animated-gifs-present-ui-designs)
+- [FROONT Open Desing Blog](http://blog.froont.com/)
+
 
 ##Case Studies / UX Design Portfolios
 ###Case Studies
