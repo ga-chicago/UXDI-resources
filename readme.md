@@ -9,6 +9,9 @@ A list of resources for UXDI students
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
 - [The Gap](https://vimeo.com/85040589)
 - [Productivity Future Vision (2011)](https://www.youtube.com/watch?v=a6cNdhOKwi0)
+- [David Kelley: How to build your creative confidence](http://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence)
+- [Elizabeth Gilbert: Your elusive creative genius](http://www.ted.com/talks/elizabeth_gilbert_on_genius)
+- [How Designers Destroyed the World by Mike Monteiro— An AEA Video](http://aneventapart.com/news/post/how-designers-destroyed-the-world-by-mike-monteiro-an-aea-video)
 
 ##Books
 - [Just Enough Research](http://abookapart.com/products/just-enough-research)
@@ -29,6 +32,12 @@ A list of resources for UXDI students
 - [A Stakeholder Interview Checklist, Kim Goodwin, boxesandarrows.com](http://boxesandarrows.com/a-stakeholder-interview-checklist/)
 - [Most of government is mostly service design most of the time. Discuss.](http://blog.mattedgar.com/2015/05/12/most-of-government-is-mostly-service-design-most-of-the-time-discuss/)
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+- [How To Go From Junior Designer To Chief Design Officer](http://www.fastcodesign.com/3046008/how-to-go-from-junior-designer-to-chief-design-officer)
+- [Google Ventures On How To Design A Killer Website](http://www.fastcodesign.com/3045197/google-ventures-on-how-to-design-a-killer-website)
+- [On Surveys](https://medium.com/research-things/on-surveys-5a73dda5e9a0)
+- [The Design Process: What is the Double Diamond?](http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
+- [An MVP is not a Cheaper Product, It’s about Smart Learning](https://medium.com/@sgblank/an-mvp-is-not-a-cheaper-product-it-s-about-smart-learning-77eed770f60c)
+- [Paper prototyping is a waste of time](https://medium.com/@jakek/paper-prototyping-is-a-waste-of-time-353076395187)
 
 ##Tools
 ###Research
@@ -55,6 +64,7 @@ A list of resources for UXDI students
 ###Visual Design
 - [Sketch](http://bohemiancoding.com/sketch/)
 - [Adobe CC](http://www.adobe.com/creativecloud.html)
+- [Affinity](https://affinity.serif.com/en-us/)
 
 ###Front-End
 
@@ -70,6 +80,7 @@ A list of resources for UXDI students
 - [GitHub](http://github.com/)
 - [Sublime Text](http://www.sublimetext.com/)
 - [Atom](https://atom.io/)
+- [Sitespeed](http://www.sitespeed.io/)
 
 
 ###File Storage
@@ -86,6 +97,7 @@ A list of resources for UXDI students
 ##Resources
 - [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
 - [Webdesignersdepot.com -- resources across the board: news, freebies, tutorials,op-eds, & s'mores](http://www.webdesignerdepot.com/)
+- [Creative Uses of Animated GIFs to Present UI Designs](http://line25.com/articles/creative-uses-animated-gifs-present-ui-designs)
 
 ##Case Studies / UX Design Portfolios
 ###Case Studies
