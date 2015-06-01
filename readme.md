@@ -65,6 +65,7 @@ A list of resources for UXDI students
 - [Validately](https://validately.com/)
 - [Visual Website Optimizer (A/B testing)](https://vwo.com/)
 - [Silverback](http://silverbackapp.com/)
+- [Hunie](http://hunie.co/)
 
 ###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
