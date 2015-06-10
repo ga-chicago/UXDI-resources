@@ -43,6 +43,7 @@ A list of resources for UXDI students
 - [The Ten Commandments Of Efficient Design In Axure](http://www.smashingmagazine.com/2013/10/04/ten-commandments-of-efficient-design-in-axure/)
 - [The 10 Commandments Of User Interface Design](http://editorial.designtaxi.com/editorial-images/news-info300415/1.jpg)
 - [The Dribbblisation of Design](https://medium.com/@intercom/the-dribbblisation-of-design-406422ccb026)
+- [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 
 ##Design Blogs
 - [A List Apart](http://alistapart.com/)
@@ -111,6 +112,9 @@ A list of resources for UXDI students
 - [Dropbox](https://db.tt/MxDI0Fc)
 - [Google Drive](https://www.google.com/drive/?authuser=0)
 - [OneDrive](https://onedrive.live.com/about/en-us/)
+
+##Reference
+- [UX Companion](http://uxcompanion.com/)
 
 ##Organizations
 - [99u Local: Chicago](http://www.meetup.com/99U-Local-Chicago/?a=wr1_2)
