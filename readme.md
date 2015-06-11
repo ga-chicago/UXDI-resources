@@ -4,6 +4,7 @@ A list of resources for UXDI students
 ##GA Resources
 ###Student Project Gallery
 - [GA Gallery](http://gallery.ga.co/)
+
 ###Campus Library
 - [GA Chicago Campus Library](http://ga-chicago-library.herokuapp.com/)
 
