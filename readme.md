@@ -1,8 +1,11 @@
 # UXDI-Resources
 A list of resources for UXDI students
 
-##GA Student Project Gallery
+##GA Resources
+###Student Project Gallery
 - [GA Gallery](http://gallery.ga.co/)
+###Campus Library
+- [GA Chicago Campus Library](http://ga-chicago-library.herokuapp.com/)
 
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
@@ -14,7 +17,6 @@ A list of resources for UXDI students
 - [How Designers Destroyed the World by Mike Monteiro— An AEA Video](http://aneventapart.com/news/post/how-designers-destroyed-the-world-by-mike-monteiro-an-aea-video)
 
 ##Books
-- [GA Chicago Campus Library](http://ga-chicago-library.herokuapp.com/)
 - [Just Enough Research](http://abookapart.com/products/just-enough-research)
 - [Design is a Job](http://abookapart.com/products/design-is-a-job)
 - [Designing for Emotion](http://abookapart.com/products/designing-for-emotion)
