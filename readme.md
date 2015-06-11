@@ -14,6 +14,7 @@ A list of resources for UXDI students
 - [How Designers Destroyed the World by Mike Monteiro— An AEA Video](http://aneventapart.com/news/post/how-designers-destroyed-the-world-by-mike-monteiro-an-aea-video)
 
 ##Books
+- [GA Chicago Campus Library](http://ga-chicago-library.herokuapp.com/)
 - [Just Enough Research](http://abookapart.com/products/just-enough-research)
 - [Design is a Job](http://abookapart.com/products/design-is-a-job)
 - [Designing for Emotion](http://abookapart.com/products/designing-for-emotion)
