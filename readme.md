@@ -8,6 +8,9 @@ A list of resources for UXDI students
 ###Campus Library
 - [GA Chicago Campus Library](http://ga-chicago-library.herokuapp.com/)
 
+###UX Design at GA
+- [UX - Latest stories in the growing field of UX Design](https://medium.com/ux-design-at-ga)
+
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
