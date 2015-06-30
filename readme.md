@@ -31,6 +31,7 @@ A list of resources for UXDI students
 - [Design for the Real World](http://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532/)
 
 ##Articles
+- [UI Design Principles And Guidelines](https://visualhierarchy.co/blog/ui-design-principles-and-guidelines/)
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
 - [10 Questions You’ll Be Asked in a UX Interview](https://medium.com/salesforce-ux/10-questions-youll-be-asked-in-a-ux-interview-f93f0c78f31d)
 - [The hardest thing in UX design…](https://medium.com/designing-atlassian/the-hardest-thing-in-ux-design-f8b2f41e2d2f)
@@ -132,6 +133,7 @@ A list of resources for UXDI students
 
 ##Case Studies / UX Design Portfolios
 ###Case Studies
+- [Rethink Digital Newspaper](http://nytimes.tematroinoi.com/)
 - [ComEd x Agentis](http://akta.com/case-study/agentis-energy-comed/)
 - [Sphero](http://www.sliceoflime.com/projects/sphero/)
 - [True Spirit](http://www.ux.danielspagnolo.com/casestudy_truespirit.html)
