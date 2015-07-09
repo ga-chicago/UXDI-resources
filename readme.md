@@ -123,7 +123,7 @@ A list of resources for UXDI students
 - [Adobe CC](http://www.adobe.com/creativecloud.html)
 - [Affinity](https://affinity.serif.com/en-us/)
 
-####Resources
+#### Visual Design Resources
 - [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
 - [Tether UI Kit](http://www.invisionapp.com/tethr)
 
@@ -166,7 +166,7 @@ A list of resources for UXDI students
 - [Weebly](http://www.weebly.com/)
 - [Wix](http://www.wix.com/)
 - [Adobe Muse](http://muse.adobe.com)
-- [](https://creative.adobe.com/products/reflow)
+- [Adobe Edge Reflow](https://creative.adobe.com/products/reflow)
 
 ###File Storage
 - [Dropbox](https://db.tt/MxDI0Fc)
