@@ -69,26 +69,53 @@ A list of resources for UXDI students
 
 ##Tools
 ###Research
-- [User Testing](http://www.usertesting.com/)
+####Survey
 - [SurveyMonkey](https://www.surveymonkey.com/)
+- [Google Forms](http://www.google.com/forms/)
+
+####Usability
+- [User Testing](http://www.usertesting.com/)
 - [Peek](http://peek.usertesting.com/)
 - [Validately](https://validately.com/)
-- [Visual Website Optimizer (A/B testing)](https://vwo.com/)
 - [Silverback](http://silverbackapp.com/)
+
+####A/B Testing
+- [Visual Website Optimizer (A/B testing)](https://vwo.com/)
+
+####Analysis and Feedback
+- [Optimal Workshop](https://www.optimalworkshop.com/)
+- [Hotjar](https://www.hotjar.com)
 - [Hunie](http://hunie.co/)
+
+####Screensharing
+- [Join.me](https://www.join.me/)
+- [Google Hangouts](http://www.google.com/+/learnmore/hangouts/)
+- [Skype](http://www.skype.com/)
+
+####Screen Recording
+- [UX Recorder](http://www.uxrecorder.com/)
+- [Quicktime](https://www.apple.com/quicktime/download/)
+- [Screeny](http://screenyapp.com)
 
 ###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
+- [Balsamiq](https://balsamiq.com/)
 
 ###Prototyping
 - [POP](https://popapp.in/)
 - [Invision](http://www.invisionapp.com/)
+- [Marvel](https://marvelapp.com/)
 - [UXPin](https://www.uxpin.com/)
 - [Flinto](https://www.flinto.com/)
+- [Axure](http://www.axure.com/)
+- [Proto.io](https://proto.io/)
+- [Frontify](https://frontify.com/)
+- [Bubble](https://bubble.is)
 
 ###Animation/Interaction
 - [Hype](http://tumult.com/hype/)
 - [Origami](https://facebook.github.io/origami/)
+- [Adobe Edge Animate](https://creative.adobe.com/products/animate)
 - [Creative Uses of Animated GIFs to Present UI Designs](http://line25.com/articles/creative-uses-animated-gifs-present-ui-designs)
 
 ###Visual Design
@@ -99,6 +126,20 @@ A list of resources for UXDI students
 ####Resources
 - [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
 - [Tether UI Kit](http://www.invisionapp.com/tethr)
+
+####Sketch Resources
+- [Overview](https://designcode.io/sketch)
+- [Shortcuts](http://sketchshortcuts.com/)
+
+#####PLUGINS
+- [Sketch Mirror (for inline prototyping)](http://www.bohemiancoding.com/sketch/features/#mirror)
+- [Symbols](https://github.com/tisho/sketch-plugins/tree/master/Symbols)
+
+####Articles
+- [iOS Dev in Sketch (Managing Workflow)](https://medium.com/@tilllur/managing-sketch-for-ios-dev-8046d2eedc61)
+- [How to Wireframe in Sketch](http://blog.mengto.com/how-to-wireframe-an-iphone-app-in-sketch/)
+- [How to Switch From Photoshop to Sketch](http://blog.mengto.com/photoshop-users-how-to-switch-to-sketch/)
+- [Hidden Features in Sketch](http://blog.mengto.com/the-best-hidden-features-in-sketch/)
 
 ###Front-End
 ####Resources
@@ -115,7 +156,17 @@ A list of resources for UXDI students
 - [Atom](https://atom.io/)
 - [Sitespeed](http://www.sitespeed.io/)
 - [CodePen](http://codepen.io/)
+- [Adobe Edge Inspect](https://creative.adobe.com/products/inspect)
+- [Brackets](http://brackets.io)
 
+####Visual Website Builders
+- [Webflow](https://webflow.com/)
+- [Macaw](http://macaw.co/)
+- [Squarespace](http://www.squarespace.com/)
+- [Weebly](http://www.weebly.com/)
+- [Wix](http://www.wix.com/)
+- [Adobe Muse](http://muse.adobe.com)
+- [](https://creative.adobe.com/products/reflow)
 
 ###File Storage
 - [Dropbox](https://db.tt/MxDI0Fc)
