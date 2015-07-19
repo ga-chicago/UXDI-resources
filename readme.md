@@ -20,6 +20,7 @@ A list of resources for UXDI students
 - [Elizabeth Gilbert: Your elusive creative genius](http://www.ted.com/talks/elizabeth_gilbert_on_genius)
 - [How Designers Destroyed the World by Mike Monteiro— An AEA Video](http://aneventapart.com/news/post/how-designers-destroyed-the-world-by-mike-monteiro-an-aea-video)
 - [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c)
+- [Bill Buxton on sketching experiences](https://vimeo.com/5189134)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
@@ -54,6 +55,9 @@ A list of resources for UXDI students
 - [The 10 Commandments Of User Interface Design](http://editorial.designtaxi.com/editorial-images/news-info300415/1.jpg)
 - [The Dribbblisation of Design](https://medium.com/@intercom/the-dribbblisation-of-design-406422ccb026)
 - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
+- [Build It With The User in Mind: How to Design User Flow](http://conversionxl.com/how-to-design-user-flow/)
+- [Streamlining the Design Process: User Flow to Final Design using Sketch](https://medium.com/@wixelhq/streamlining-the-design-process-user-flow-to-final-design-using-sketch-ba71d2355bf9)
+- [Stop Designing Pages And Start Designing Flows](http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
 
 ##Design Blogs
 - [A List Apart](http://alistapart.com/)
