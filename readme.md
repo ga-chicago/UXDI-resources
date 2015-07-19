@@ -19,6 +19,7 @@ A list of resources for UXDI students
 - [David Kelley: How to build your creative confidence](http://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence)
 - [Elizabeth Gilbert: Your elusive creative genius](http://www.ted.com/talks/elizabeth_gilbert_on_genius)
 - [How Designers Destroyed the World by Mike Monteiro— An AEA Video](http://aneventapart.com/news/post/how-designers-destroyed-the-world-by-mike-monteiro-an-aea-video)
+- [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
