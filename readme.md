@@ -21,6 +21,7 @@ A list of resources for UXDI students
 - [How Designers Destroyed the World by Mike Monteiro— An AEA Video](http://aneventapart.com/news/post/how-designers-destroyed-the-world-by-mike-monteiro-an-aea-video)
 - [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c)
 - [Bill Buxton on sketching experiences](https://vimeo.com/5189134)
+- [Startup Lab workshop: User Research, Quick 'n' Dirty](https://www.youtube.com/watch?v=WpzmOH0hrEM)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
