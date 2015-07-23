@@ -32,6 +32,7 @@ A list of resources for UXDI students
 - [The Shape of Design](http://shapeofdesignbook.com/)
 - [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
 - [Design for the Real World](http://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532/)
+- [How to Make Sense of Any Mess: Information Architecture for Everybody](http://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994/)
 
 ##Articles
 - [UI Design Principles And Guidelines](https://visualhierarchy.co/blog/ui-design-principles-and-guidelines/)
