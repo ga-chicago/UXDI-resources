@@ -22,6 +22,7 @@ A list of resources for UXDI students
 - [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c)
 - [Bill Buxton on sketching experiences](https://vimeo.com/5189134)
 - [Startup Lab workshop: User Research, Quick 'n' Dirty](https://www.youtube.com/watch?v=WpzmOH0hrEM)
+- [Start With Why - Simon Sinek TED talk](https://www.youtube.com/watch?v=sioZd3AxmnE)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
