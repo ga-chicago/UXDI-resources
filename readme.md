@@ -61,6 +61,7 @@ A list of resources for UXDI students
 - [Build It With The User in Mind: How to Design User Flow](http://conversionxl.com/how-to-design-user-flow/)
 - [Streamlining the Design Process: User Flow to Final Design using Sketch](https://medium.com/@wixelhq/streamlining-the-design-process-user-flow-to-final-design-using-sketch-ba71d2355bf9)
 - [Stop Designing Pages And Start Designing Flows](http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
+- [The 30 Minute Business Plan: Business Model Canvas Made Easy](http://www.alexandercowan.com/business-model-canvas-templates/)
 
 ##Design Blogs
 - [A List Apart](http://alistapart.com/)
