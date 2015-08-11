@@ -159,7 +159,6 @@ A list of resources for UXDI students
 - [Bootstrap](http://getbootstrap.com/)
 - [Ratchet](http://goratchet.com/)
 - [Foundation](http://foundation.zurb.com/)
-####Case Study
 - [Semplice](http://www.semplicelabs.com/)
 
 ####Tools
