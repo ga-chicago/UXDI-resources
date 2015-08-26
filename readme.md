@@ -164,6 +164,8 @@ A list of resources for UXDI students
 
 ####Tools
 - [GitHub](http://github.com/)
+- [Github for Desktop](https://desktop.github.com/)
+	- [Git Intro Video](https://www.youtube.com/watch?v=qrhHUCuXZQ8)
 - [Sublime Text](http://www.sublimetext.com/)
 - [Atom](https://atom.io/)
 - [Sitespeed](http://www.sitespeed.io/)
