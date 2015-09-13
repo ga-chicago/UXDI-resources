@@ -38,6 +38,14 @@ A list of resources for UXDI students
 - [How to Make Sense of Any Mess: Information Architecture for Everybody](http://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994/)
 
 ##Articles
+###Design Generalists
+- [Defending The Generalists In The Web Design Industry](http://www.smashingmagazine.com/2011/07/defending-the-generalists-in-the-web-design-industry/)
+- [Should You Become A UX Generalist Or A UX Specialist?](http://uxmastery.com/should-you-become-a-ux-generalist-or-a-ux-specialist/)
+- [Designing in the Borderlands](http://frankchimero.com/writing/designing-in-the-borderlands/)
+- [Why the Best Designers Don’t Specialize in Any One Thing](http://www.wired.com/2014/06/why-the-best-designers-dont-specialize-in-any-one-thing/)
+- [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balance)
+
+###UX
 - [UI Design Principles And Guidelines](https://visualhierarchy.co/blog/ui-design-principles-and-guidelines/)
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
 - [10 Questions You’ll Be Asked in a UX Interview](https://medium.com/salesforce-ux/10-questions-youll-be-asked-in-a-ux-interview-f93f0c78f31d)
