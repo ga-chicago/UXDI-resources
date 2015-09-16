@@ -11,6 +11,14 @@ A list of resources for UXDI students
 ###UX Design at GA
 - [UX - Latest stories in the growing field of UX Design](https://medium.com/ux-design-at-ga)
 
+###Local Companies Hiring
+The Chicago job market for design is robust and sometimes difficult to find opportunities because companies post across many job boards in addition to their own sites. These are a few focused places to start looking.
+- [Built in Chicago](http://www.builtinchicago.org/jobs#/jobs?f%5B%5D=im_job_categories%3A79)
+- [AIGA Design Jobs](http://designjobs.aiga.org/#location=Chicago, IL)
+- [Authentic Jobs](https://authenticjobs.com/#location=Chicago&search=Design)
+- [Angelist](https://angel.co/chicago/designer/jobs)
+- [We Work Remotely](https://weworkremotely.com/categories/1-design/jobs#intro)
+
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
