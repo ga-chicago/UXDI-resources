@@ -18,6 +18,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Authentic Jobs](https://authenticjobs.com/#location=Chicago&search=Design)
 - [Angelist](https://angel.co/chicago/designer/jobs)
 - [We Work Remotely](https://weworkremotely.com/categories/1-design/jobs#intro)
+- [Chicago Ad Agency List](http://chicagoadagencylist.com/)
 
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
