@@ -34,6 +34,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Start With Why - Simon Sinek TED talk](https://www.youtube.com/watch?v=sioZd3AxmnE)
 - [Adobe: Five Essential Principles of Interaction Design](http://tv.adobe.com/watch/classroom-five-essential-principles-of-interaction-design/part-1-five-essential-principles-of-interaction-design/)
 - [Ling at Handheld](https://www.youtube.com/watch?v=FbUyCMA5NRE)
+- [How to Design an Effective Presentation](https://www.youtube.com/watch?v=HJgeF3ALl0g)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
