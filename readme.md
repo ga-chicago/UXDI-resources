@@ -20,6 +20,10 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [We Work Remotely](https://weworkremotely.com/categories/1-design/jobs#intro)
 - [Chicago Ad Agency List](http://chicagoadagencylist.com/)
 
+####A list of Chicago Creative Agencies (linked directly to IxD firms)
+- [Agency Pimp](http://agencypimp.com/#interactive_design)
+
+
 ##Videos
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
