@@ -39,6 +39,16 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Adobe: Five Essential Principles of Interaction Design](http://tv.adobe.com/watch/classroom-five-essential-principles-of-interaction-design/part-1-five-essential-principles-of-interaction-design/)
 - [Ling at Handheld](https://www.youtube.com/watch?v=FbUyCMA5NRE)
 - [How to Design an Effective Presentation](https://www.youtube.com/watch?v=HJgeF3ALl0g)
+- [What is UX Design?](https://www.youtube.com/watch?v=CJnfAXlBRTE)
+- [Importance of Design Specifications](https://www.youtube.com/watch?v=eOckdCUOrQA)
+- [Eric Ries-Building the Minimum Viable Product](https://www.youtube.com/watch?v=1FoCbbbcYT8)
+- [UX: Developing an Information Architecture with Card Sorting](https://www.youtube.com/watch?v=bH1zdz-lDMM)
+- [Series: "In the Empathy Lab". Episode: "Native vs. Responsive Web Design (RWD)"](https://www.youtube.com/watch?v=gtLzZZYor7A)
+- [The Pros and Cons of Responsive Web Design vs. Mobile Website vs. Native App](http://designmodo.com/responsive-design-vs-mobile-website-vs-app/)
+- [What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks)
+- [002: The What, Why & How of Wireframing](https://www.youtube.com/watch?v=i4Zg6_yKOh8)
+- [Google I/O 2015 - Material Now](https://www.youtube.com/watch?v=8UicJ0SxBwA)
+- [The art of choosing](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
@@ -50,6 +60,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
 - [Design for the Real World](http://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532/)
 - [How to Make Sense of Any Mess: Information Architecture for Everybody](http://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994/)
+- [Purposely Irregular: Zen, Punk Rock and Ruthlessness in Experience Design](http://www.amazon.com/Purposely-Irregular-Ruthlessness-Experience-Design/dp/0615631339)
 
 ##Articles
 ###Design Generalists
@@ -60,6 +71,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balance)
 
 ###UX
+- [What Is User Experience Design? Overview, Tools And Resources](http://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
 - [UI Design Principles And Guidelines](https://visualhierarchy.co/blog/ui-design-principles-and-guidelines/)
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
 - [10 Questions You’ll Be Asked in a UX Interview](https://medium.com/salesforce-ux/10-questions-youll-be-asked-in-a-ux-interview-f93f0c78f31d)
@@ -86,6 +98,99 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Streamlining the Design Process: User Flow to Final Design using Sketch](https://medium.com/@wixelhq/streamlining-the-design-process-user-flow-to-final-design-using-sketch-ba71d2355bf9)
 - [Stop Designing Pages And Start Designing Flows](http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
 - [The 30 Minute Business Plan: Business Model Canvas Made Easy](http://www.alexandercowan.com/business-model-canvas-templates/)
+- [Agile vs. Lean vs. Lean Agile](http://blog.pivotal.io/labs/labs/agile-vs-lean)
+- [Presumptive Design: Design Research Through the Looking Glass](http://www.uxmatters.com/mt/archives/2015/08/presumptive-design-design-research-through-the-looking-glass.php)
+- [The Lean UX Manifesto – Principle Driven Design](http://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/)
+- [The startup that died so Instagram could live](http://money.cnn.com/2011/09/13/technology/startups/instagram_burbn/)
+- [The Story of Flickr](http://thinkofthat.net/2011/06/02/the-story-of-flickr/)
+- [11 Startups That Found Success By Changing Direction](http://mashable.com/2011/07/08/startups-change-direction/#gFcaUyXhgsqH)
+- [The 8020 Rule Applied to Web Design](http://www.webdesignerdepot.com/2011/02/the-8020-rule-applied-to-web-design/)
+- [Steve Jobs: Innovation is Saying "No" to 1,000 things](http://zurb.com/article/744/steve-jobs-innovation-is-saying-no-to-1-0)
+- [Google designers had an ‘almost hallucinatory moment’ when Larry Page finally said that products needed to look beautiful](http://www.businessinsider.com/google-designers-rejoice-about-material-2015-6)
+- [Designing the new Foursquare](https://medium.com/@sambrown/designing-the-new-foursquare-8f8788d366f0#.inx1fdqp9)
+- [Watching Them Struggle](http://usabilitypost.com/2012/12/06/watching-them-struggle/)
+- [How to Design a Pitch Deck: Lessons from a Seasoned Founder](https://medium.com/swlh/how-to-design-a-pitch-deck-lessons-from-a-seasoned-founder-c816d1ae7272#.tt08ifpga)
+- [Making Your Product a Habit: The Hook Framework](http://www.alexandercowan.com/the-hook-framework/)
+- [Getting Traction: How to Hook New Users](http://www.nirandfar.com/2014/08/traction.html)
+- [Language as Interface: A Voice and Tone Guide for Your UX Design Project](https://clemauyeung.wordpress.com/2015/06/09/voice-and-tone-ux-design-project/)
+- [Tone and Voice: Showing Your Users That You Care](https://uxmag.com/articles/tone-and-voice-showing-your-users-that-you-care)
+- [The Next Big Thing In Design? Less Choice](http://www.fastcodesign.com/3045039/the-next-big-thing-in-design-fewer-choices)
+- [Do You Suffer From Decision Fatigue?](http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html?pagewanted=all&_r=1)
+- [Decision fatigue](https://en.wikipedia.org/wiki/Decision_fatigue)
+- [Partnering with Key Stakeholders in UX Strategy](http://uxhow.com/stakeholders/)
+- [6 common challenges in managing UX projects and how to overcome them](http://www.loop11.com/the-6-most-common-problems-in-ux-projects/)
+
+###Research
+- [Seeing the Elephant: Defragmenting User Research](http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research)
+- [When to Use Which User-Experience Research Methods](http://www.nngroup.com/articles/which-ux-research-methods/)
+- [Interviewing Users: Uncovering Compelling Insights](http://www.slideshare.net/steveportigal/interviewing-users-uncovering-compelling-insights-la-ux-meetupixda-la)
+- [On Surveys](https://medium.com/research-things/on-surveys-5a73dda5e9a0#.k6iaruof1)
+- [UX Strategy: Chapter 4. Conducting Competitive Research](https://www.safaribooksonline.com/library/view/ux-strategy/9781449372972/ch04.html)
+- [Connected UX](http://alistapart.com/article/connected-ux)
+- [A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
+- [The UX Research Plan That Stakeholders Love](http://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
+- [Dos and Don’ts of Interviewing Users](https://drive.google.com/file/d/0B90at1RYlXLcLWthbk9GbTAyVkU/view)
+- [Personas Make Users Memorable for Product Team Members](http://www.nngroup.com/articles/persona/)
+- [Five Approaches To Creating Lightweight Personas](http://www.usabilitycounts.com/2013/09/10/five-approaches-creating-lightweight-personas/)
+- [New MailChimp: User Persona Research](https://blog.mailchimp.com/new-mailchimp-user-persona-research/)
+- [Interviewing Users: Spinning Data Into Gold](http://www.slideshare.net/steveportigal/interviewing-users-spinning-data-into-gold)
+- [Effectively Planning UX Design Projects](http://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects/)
+- [How To Write a Good PRD ](http://www.svpg.com/assets/Files/goodprd.pdf)
+- [Minimum Desirable Product](http://andrewchen.co/minimum-desirable-product/)
+- [How to Use Dot Voting Effectively](http://dotmocracy.org/dot-voting)
+- [MOSCOW METHOD](https://www.projectsmart.co.uk/moscow-method.php)
+- [#now, #next, #later: Roadmaps without the Drudgery](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645#.h9v7fkra7)
+- [Example of  A Design Specification](https://docs.google.com/document/d/1fvWDot7E0yUW9bNJIH-l7VJp2aYnbJ91XB_6KSd8sgk/edit)
+- [Trust Nothing, Murder Most](https://deardesignstudent.com/trust-nothing-murder-most-dcd512b28889#.wsxz38r5m)
+- [Sitemaps – The Beginner’s Guide](http://theuxreview.co.uk/sitemaps-the-beginners-guide/)
+- [Tree Testing](http://boxesandarrows.com/tree-testing/)
+- [Information Architecture mistakes and remedies](http://www.u1group.com/blog/article/information-architecture-mistakes-and-remedies)
+- [5 Common Information Architecture Pitfalls](http://www.intranetconnections.com/blog/5-common-information-architecture-pitfalls/)
+- [Improving Your Information Architecture With Card Sorting: A Beginner’s Guide](http://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/)
+- [Information Architecture Heuristics](http://www.slideshare.net/AbbyCovert/information-architecture-heuristics)
+- [Make Sense: Information Architecture for Everybody](http://www.slideshare.net/AbbyCovert/make-sense-information-architecture-for-everybody)
+- [Card sorting: a definitive guide](http://boxesandarrows.com/card-sorting-a-definitive-guide/)
+- [Why card sorting loves tree testing](https://www.optimalworkshop.com/blog/why-card-sorting-loves-tree-testing/)
+- [Design for Continuous Experimentation](http://www.slideshare.net/danmckinley/design-for-continuous-experimentation)
+- [Avoid these Mistakes..Or Your Usability Testing Results Will Be Worthless!](https://validately.com/leancustomerresearch/avoid-mistake-that-will-make-usability-testing-results-worthless/)
+- [Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)
+- [Usability Pro-Tips](https://medium.com/@andywarr/usability-pro-tips-7b4eb2cc63c4#.3s2wdzmv1)
+- [A Guerilla Usability Test on Dropbox Photos](https://medium.com/bridge-collection/a-guerilla-usability-test-on-dropbox-photos-e6a1e37028b4#.tjpexnr21)
+
+###Production
+- [Modern Design Tools: Adaptive Layouts](https://medium.com/bridge-collection/modern-design-tools-adaptive-layouts-e236070856e3)
+- [Finger-Friendly Design: Ideal Mobile Touchscreen Target Sizes](http://www.smashingmagazine.com/2012/02/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/)
+- [Common Misconceptions About Touch](http://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php)
+- [Touch Target Sizes](http://www.lukew.com/ff/entry.asp?1085)
+- [6 UX Mistakes to Avoid When Designing a Native Mobile App](http://apptimize.com/blog/2014/04/6-ux-mistakes-to-avoid-when-designing-a-native-mobile-app/)
+- [5 Reasons to Use UI Patterns in Your Design Work](http://ht.ly/SmpyQ)
+- [Information Architecture 101: Techniques and Best Practices](http://sixrevisions.com/usabilityaccessibility/information-architecture-101-techniques-and-best-practices/)
+- [Writing Smart Annotations](http://boxesandarrows.com/writing-smart-annotations/)
+- [8 VISUAL DESIGN TIPS FOR UX DESIGNERS](http://blog.invisionapp.com/8-visual-design-tips-for-ux-designers/)
+- [Design Principles: Dominance, Focal Points And Hierarchy](http://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
+- [Design Principles: Visual Perception And The Principles Of Gestalt](http://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/)
+- [20 Typography Mistakes Every Beginner Makes](https://designschool.canva.com/blog/typography-mistakes/)
+- [Designing a Good Mobile App Interface](https://www.makerscabin.com/mag/designing-good-mobile-app-interface/)
+- [Integrating Prototyping Into Your Design Process](http://boxesandarrows.com/integrating-prototyping-into-your-design-process/)
+- [See Also: (More) thoughts on design tools](https://medium.com/google-design/see-also-more-thoughts-on-design-tools-d4477bb1a1cb#.z64l0o4zb)
+- [Origami and Material Design: Getting a better understanding of both](https://medium.com/@makeshowlearn/origami-and-material-design-84f128e54938#.ed76bf4h7)
+- [The 3 laws of effective notifications](http://blog.invisionapp.com/the-3-laws-of-effective-notifications/)
+
+###Building a Portfolio
+- [How To Build A World-Class Design Portfolio](http://www.fastcodesign.com/3035190/designers-at-facebook-dropbox-and-pinterest-on-how-to-build-a-world-class-portfolio)
+- [10 Steps To A Perfect UX Portfolio](http://uxmastery.com/10-steps-to-a-perfect-ux-portfolio/)
+- [How Much UX have You Put into Your UX Portfolio?](http://uxmag.com/articles/how-much-ux-have-you-put-into-your-ux-portfolio)
+- [Creating Better UX Portfolios: 4 Do’s and Dont’s](http://studio.uxpin.com/blog/creating-ux-portfolio-4-dos-donts/)
+
+###Job interviews
+- [How to Ace Your Portfolio Presentation](http://designerfund.com/bridge/how-to-ace-your-portfolio-presentation/)
+- [How to interview a designer with the perfect design exercise](https://www.gv.com/lib/how-to-interview-a-designer-with-the-perfect-design-exercise)
+- [Why A Career In UX Design Has A Low Barrier Of Entry … Sort Of](http://uxmastery.com/why-a-career-in-ux-design-has-a-low-barrier-of-entry-sort-of/)
+
+###Growing as a Designer
+- [Hey Designers: Stop Being An Afterthought](http://www.smashingmagazine.com/2015/09/stop-being-an-afterthought/)
+- [How to be an amazing designer: the excellence bar](http://blog.invisionapp.com/how-to-be-an-amazing-designer-the-excellence-bar/)
+- [UX Is a Canary in a Coal Mine](https://medium.com/swlh/ux-is-a-canary-in-a-coal-mine-b7764b77f371#.9yjpfmvf0)
 
 ##Design Blogs
 - [A List Apart](http://alistapart.com/)
@@ -99,6 +204,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Wired Design](http://www.wired.com/category/design/)
 - [Fast Co. Design](http://www.fastcodesign.com/)
 - [Designer News](https://www.designernews.co/)
+- [UX Switch: Career Advice](http://www.uxswitch.com/thinking/)
 
 ##Tools
 ###Research
@@ -119,6 +225,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Optimal Workshop](https://www.optimalworkshop.com/)
 - [Hotjar](https://www.hotjar.com)
 - [Hunie](http://hunie.co/)
+- [10000ft](https://www.10000ft.com/insights/overview)
 
 ####Screensharing
 - [Join.me](https://www.join.me/)
@@ -225,6 +332,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Sphero](http://www.sliceoflime.com/projects/sphero/)
 - [True Spirit](http://www.ux.danielspagnolo.com/casestudy_truespirit.html)
 - [GoCatch](http://www.saramichelazzo.com/gocatch)
+- [A cafeteria designed for me](https://www.ideo.com/stories/a-cafeteria-designed-for-me/)
 
 ###Portfolios
 - [Erica Firment](http://ericafirment.com/)
