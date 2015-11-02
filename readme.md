@@ -49,6 +49,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [002: The What, Why & How of Wireframing](https://www.youtube.com/watch?v=i4Zg6_yKOh8)
 - [Google I/O 2015 - Material Now](https://www.youtube.com/watch?v=8UicJ0SxBwA)
 - [The art of choosing](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en)
+- [Prototyping fake it till you make it](https://www.youtube.com/watch?v=3lqh-A5Jy4Q)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
