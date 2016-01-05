@@ -72,6 +72,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balance)
 
 ###UX
+- [The State of UX in 2016](https://medium.com/user-experience-design-1/the-state-of-ux-in-2016-4a87799647d8#.x83wtgrd5)
 - [What Is User Experience Design? Overview, Tools And Resources](http://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
 - [UI Design Principles And Guidelines](https://visualhierarchy.co/blog/ui-design-principles-and-guidelines/)
 - [The Only UX Reading List Ever](https://medium.com/@span870/the-only-ux-reading-list-ever-d420edb3f4ff)
@@ -237,6 +238,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [UX Recorder](http://www.uxrecorder.com/)
 - [Quicktime](https://www.apple.com/quicktime/download/)
 - [Screeny](http://screenyapp.com)
+- [Lookback](https://lookback.io/)
 
 ###Wireframing
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
@@ -336,6 +338,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [A cafeteria designed for me](https://www.ideo.com/stories/a-cafeteria-designed-for-me/)
 
 ###Portfolios
+- [Samuel Medvedowsky](http://www.samuel-medvedowsky.com/)
 - [Erica Firment](http://ericafirment.com/)
 - [Cody James Sielawa](http://www.helloimcody.com/)
 - [Edmund Yu](http://www.edmundyu.com/)
