@@ -185,6 +185,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Creating Better UX Portfolios: 4 Do’s and Dont’s](http://studio.uxpin.com/blog/creating-ux-portfolio-4-dos-donts/)
 
 ###Job interviews
+- [How top startups pay designers](https://library.gv.com/how-top-startups-pay-designers-1c2056fddc2#.e4sq0ex6k)
 - [How to Ace Your Portfolio Presentation](http://designerfund.com/bridge/how-to-ace-your-portfolio-presentation/)
 - [How to interview a designer with the perfect design exercise](https://www.gv.com/lib/how-to-interview-a-designer-with-the-perfect-design-exercise)
 - [Why A Career In UX Design Has A Low Barrier Of Entry … Sort Of](http://uxmastery.com/why-a-career-in-ux-design-has-a-low-barrier-of-entry-sort-of/)
