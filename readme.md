@@ -326,6 +326,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 
 ##Reference
 - [UX Companion](http://uxcompanion.com/)
+- [UX Design resources](http://uxdesign.cc/)
 
 ##Organizations
 - [99u Local: Chicago](http://www.meetup.com/99U-Local-Chicago/?a=wr1_2)
