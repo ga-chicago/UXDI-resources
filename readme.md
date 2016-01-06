@@ -262,12 +262,16 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Adobe Edge Animate](https://creative.adobe.com/products/animate)
 - [Creative Uses of Animated GIFs to Present UI Designs](http://line25.com/articles/creative-uses-animated-gifs-present-ui-designs)
 
+###Visual Storytelling
+- [Adobe Voice](https://standout.adobe.com/voice/)
+- [Adobe Slate](https://standout.adobe.com/slate/)
+
 ###Visual Design
 - [Sketch](http://bohemiancoding.com/sketch/)
 - [Adobe CC](http://www.adobe.com/creativecloud.html)
 - [Affinity](https://affinity.serif.com/en-us/)
 
-#### Visual Design Resources
+####Visual Design Resources
 - [Makerbook.net -- free resources "for creatives"](http://makerbook.net/)
 - [Tether UI Kit](http://www.invisionapp.com/tethr)
 
