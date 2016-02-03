@@ -292,7 +292,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 ###Front-End
 ####Learning
 - [GA Dash](https://dash.generalassemb.ly)
-- [Treehouse](http://referrals.trhou.se/jasonearly)Come learn with me on @treehouse and get 50% off your first month!
+- [Treehouse](http://referrals.trhou.se/jasonearly) Come learn with me on @treehouse and get 50% off your first month!
 
 ####Resources
 - [Google Fonts](https://www.google.com/fonts)
