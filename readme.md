@@ -246,6 +246,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Balsamiq](https://balsamiq.com/)
 
 ###Prototyping
+- [Designer’s Toolkit: Prototyping Tools via Cooper.com](http://www.cooper.com/prototyping-tools)
 - [POP](https://popapp.in/)
 - [Invision](http://www.invisionapp.com/)
 - [Marvel](https://marvelapp.com/)
