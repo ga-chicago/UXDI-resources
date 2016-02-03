@@ -290,6 +290,10 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Hidden Features in Sketch](http://blog.mengto.com/the-best-hidden-features-in-sketch/)
 
 ###Front-End
+####Learning
+- [GA Dash](https://dash.generalassemb.ly)
+- [Treehouse](http://referrals.trhou.se/jasonearly)Come learn with me on @treehouse and get 50% off your first month!
+
 ####Resources
 - [Google Fonts](https://www.google.com/fonts)
 
