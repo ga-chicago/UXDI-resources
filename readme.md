@@ -50,6 +50,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Google I/O 2015 - Material Now](https://www.youtube.com/watch?v=8UicJ0SxBwA)
 - [The art of choosing](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en)
 - [Prototyping fake it till you make it](https://www.youtube.com/watch?v=3lqh-A5Jy4Q)
+- [How frustration can make us more creative](http://www.ted.com/talks/tim_harford_how_messy_problems_can_inspire_creativity#t-919452)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
