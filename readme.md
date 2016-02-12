@@ -28,6 +28,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Mike Monteiro: Keynote](https://vimeo.com/121082134)
 - [It's a Great Time to Be A UX Designer](https://vimeo.com/92744606)
 - [The Gap](https://vimeo.com/85040589)
+- [The Design Studio Method - Todd Zaki Warfel](https://vimeo.com/37861987)
 - [Productivity Future Vision (2011)](https://www.youtube.com/watch?v=a6cNdhOKwi0)
 - [David Kelley: How to build your creative confidence](http://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence)
 - [Elizabeth Gilbert: Your elusive creative genius](http://www.ted.com/talks/elizabeth_gilbert_on_genius)
