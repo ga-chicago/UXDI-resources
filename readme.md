@@ -262,6 +262,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Bubble](https://bubble.is)
 
 ###Animation/Interaction
+- [Principle](http://principleformac.com/)
 - [Hype](http://tumult.com/hype/)
 - [Origami](https://facebook.github.io/origami/)
 - [Adobe Edge Animate](https://creative.adobe.com/products/animate)
