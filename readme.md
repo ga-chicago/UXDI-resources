@@ -74,6 +74,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balance)
 
 ###UX
+- [Good UX designers must be fighters](https://medium.com/@andrewdoherty/good-ux-designers-must-be-prepared-to-fight-cbf758b10854#.d12dxs9ml)
 - [Creating Perfect User Flows for Smooth UX](https://studio.uxpin.com/blog/creating-perfect-user-flows-for-smooth-ux/)
 - [The State of UX in 2016](https://medium.com/user-experience-design-1/the-state-of-ux-in-2016-4a87799647d8#.x83wtgrd5)
 - [What Is User Experience Design? Overview, Tools And Resources](http://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
