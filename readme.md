@@ -52,6 +52,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [The art of choosing](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en)
 - [Prototyping fake it till you make it](https://www.youtube.com/watch?v=3lqh-A5Jy4Q)
 - [How frustration can make us more creative](http://www.ted.com/talks/tim_harford_how_messy_problems_can_inspire_creativity#t-919452)
+- [What is the Value of Service Design?](https://vimeo.com/74102483)
 
 ##Books
 - [You're My Favorite Client](http://abookapart.com/products/youre-my-favorite-client)
