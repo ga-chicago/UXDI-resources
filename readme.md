@@ -328,7 +328,9 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Weebly](http://www.weebly.com/)
 - [Wix](http://www.wix.com/)
 - [Adobe Muse](http://muse.adobe.com)
+	- [Adobe Muse Tutorials](http://resources.muse.adobe.com/collections/tutorials)
 - [Adobe Edge Reflow](https://creative.adobe.com/products/reflow)
+
 
 ###File Storage
 - [Dropbox](https://db.tt/MxDI0Fc)
