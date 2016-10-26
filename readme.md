@@ -250,6 +250,12 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
 - [Balsamiq](https://balsamiq.com/)
 
+###Service Design
+- [SX Chicago Resources and Downloads](http://www.practicalservicedesign.com/sxchi16)
+- [Guide to Practical Service Blueprinting](http://www.practicalservicedesign.com/download-the-guide)
+- [Tools and Templates](http://www.practicalservicedesign.com/resources)
+
+
 ###Prototyping
 - [Designer’s Toolkit: Prototyping Tools via Cooper.com](http://www.cooper.com/prototyping-tools)
 - [POP](https://popapp.in/)
