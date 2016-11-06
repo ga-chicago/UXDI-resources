@@ -291,6 +291,7 @@ The Chicago job market for design is robust and sometimes difficult to find oppo
 ####Sketch Resources
 - [Overview](https://designcode.io/sketch)
 - [Shortcuts](http://sketchshortcuts.com/)
+- [Tutorials](https://www.switchtosketchapp.com/)
 
 #####PLUGINS
 - [Sketch Mirror (for inline prototyping)](http://www.bohemiancoding.com/sketch/features/#mirror)
